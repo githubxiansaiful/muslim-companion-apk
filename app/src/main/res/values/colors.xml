@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mc_paper_light">#FAF8F3</color>
+    <color name="mc_paper_dark">#181514</color>
+    <color name="mc_card_light">#FFFFFF</color>
+    <color name="mc_card_dark">#211C1A</color>
+    <color name="mc_border_light">#E6DFD3</color>
+    <color name="mc_border_dark">#3A3230</color>
+    <color name="mc_text_primary_light">#2C2523</color>
+    <color name="mc_text_primary_dark">#F7F3EB</color>
+    <color name="mc_text_secondary_light">#6E615D</color>
+    <color name="mc_text_secondary_dark">#A89B96</color>
+    <color name="mc_emerald">#059669</color>
+    <color name="mc_amber">#D97706</color>
+</resources>

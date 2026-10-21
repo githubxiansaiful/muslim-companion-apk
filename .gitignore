@@ -1,0 +1,130 @@
+# ==============================================================================
+# Muslim Companion - .gitignore
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# 1. Local Configuration & Personal Information
+# ------------------------------------------------------------------------------
+# Machine-specific Android SDK/NDK path and user paths (contains personal username)
+local.properties
+
+# Local environment variables and developer-specific settings
+.env
+.env.*
+*.local
+local.settings.json
+
+# Secrets, sensitive tokens & API properties
+secrets.properties
+private.properties
+google-services.json
+GoogleService-Info.plist
+
+# ------------------------------------------------------------------------------
+# 2. Keystores & Signing Credentials (NEVER commit to public repositories)
+# ------------------------------------------------------------------------------
+*.jks
+*.keystore
+*.key
+*.pem
+*.pk8
+*.p12
+*.pfx
+signing.properties
+keystore.properties
+release-signing.properties
+
+# ------------------------------------------------------------------------------
+# 3. Build Outputs, Intermediates & Caches
+# ------------------------------------------------------------------------------
+# Root and module build output directories
+build/
+*/build/
+app/build/
+bin/
+gen/
+out/
+
+# Gradle caches, execution history & daemon state
+.gradle/
+
+# Kotlin compiler caches & daemon state
+.kotlin/
+
+# Android Studio navigation and layout preview caches
+.navigation/
+captures/
+
+# C/C++ Native NDK build files
+.cxx/
+.externalNativeBuild/
+obj/
+*.so
+
+# ------------------------------------------------------------------------------
+# 4. Compiled Binaries & Package Artifacts
+# ------------------------------------------------------------------------------
+# Compiled Java / Dalvik classes
+*.class
+*.dex
+
+# Android Application & Library packages
+*.apk
+*.ap_
+*.aab
+*.aar
+
+# Standalone exported APK folder
+/APK/
+MuslimCompanion.apk
+
+# ------------------------------------------------------------------------------
+# 5. Android Studio & IDE Configuration Files
+# ------------------------------------------------------------------------------
+# IntelliJ / Android Studio project state (contains local device IDs, window layout, user paths)
+.idea/
+*.iml
+.idea_modules/
+
+# Visual Studio Code
+.vscode/
+
+# Other editors
+*.sublime-project
+*.sublime-workspace
+*~
+*.swp
+*.swo
+
+# ------------------------------------------------------------------------------
+# 6. Logs & Diagnostics
+# ------------------------------------------------------------------------------
+*.log
+*.hprof
+hs_err_pid*
+
+# ------------------------------------------------------------------------------
+# 7. Operating System Generated Files
+# ------------------------------------------------------------------------------
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+.fuse_hidden*
+.directory
+
+# ------------------------------------------------------------------------------
+# 8. Gradle Wrapper (Ensure wrapper binaries are NOT accidentally ignored)
+# ------------------------------------------------------------------------------
+!gradle/wrapper/gradle-wrapper.jar

@@ -1,0 +1,58 @@
+[
+  {
+    "number": 1,
+    "numberInSurah": 1,
+    "text": "﻿بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+    "pronunciationBn": "বিসমিল্লাহির রাহমানির রাহিম।",
+    "translationBn": "শুরু করছি আল্লাহর নামে যিনি পরম করুণাময়, অতি দয়ালু।",
+    "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3"
+  },
+  {
+    "number": 2,
+    "numberInSurah": 2,
+    "text": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
+    "pronunciationBn": "আলহামদু লিল্লাহি রাব্বিল আলামিন।",
+    "translationBn": "যাবতীয় প্রশংসা আল্লাহ তাআলার যিনি সকল সৃষ্টি জগতের পালনকর্তা।",
+    "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2.mp3"
+  },
+  {
+    "number": 3,
+    "numberInSurah": 3,
+    "text": "ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+    "pronunciationBn": "আর-রাহমানির রাহিম।",
+    "translationBn": "যিনি নিতান্ত মেহেরবান ও দয়ালু।",
+    "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3.mp3"
+  },
+  {
+    "number": 4,
+    "numberInSurah": 4,
+    "text": "مَٰلِكِ يَوْمِ ٱلدِّينِ",
+    "pronunciationBn": "মালিকি ইয়াওমিদ-দিন।",
+    "translationBn": "যিনি বিচার দিনের মালিক।",
+    "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4.mp3"
+  },
+  {
+    "number": 5,
+    "numberInSurah": 5,
+    "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "pronunciationBn": "ইয়্যাক নাবুদু ওয়া ইয়্যাকা নাস্তায়িন।",
+    "translationBn": "আমরা একমাত্র তোমারই ইবাদত করি এবং শুধুমাত্র তোমারই সাহায্য প্রার্থনা করি।",
+    "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5.mp3"
+  },
+  {
+    "number": 6,
+    "numberInSurah": 6,
+    "text": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+    "pronunciationBn": "ইহদিনাস সিরাতাল মুস্তাক্বিম।",
+    "translationBn": "আমাদেরকে সরল পথ দেখাও,",
+    "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6.mp3"
+  },
+  {
+    "number": 7,
+    "numberInSurah": 7,
+    "text": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+    "pronunciationBn": "সিরাতাল্লাজিনা আন'আমতা আলাইহিম, গাইরিল মাগদুবি আলাইহিম ওয়ালাদ-দ্বোয়াল্লিন।",
+    "translationBn": "সে সমস্ত লোকের পথ, যাদেরকে তুমি নেয়ামত দান করেছ। তাদের পথ নয়, যাদের প্রতি তোমার গজব নাযিল হয়েছে এবং যারা পথভ্রষ্ট হয়েছে।",
+    "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/7.mp3"
+  }
+]

@@ -1,0 +1,1028 @@
+﻿[
+    {
+        "revelationType":  "Meccan",
+        "name":  "الفاتحة",
+        "number":  1,
+        "englishNameTranslation":  "The Opening",
+        "englishName":  "Al-Fatihah",
+        "bengaliName":  "আল-ফাতিহা",
+        "numberOfAyahs":  7
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "البقرة",
+        "number":  2,
+        "englishNameTranslation":  "The Cow",
+        "englishName":  "Al-Baqarah",
+        "bengaliName":  "আল-বাকারা",
+        "numberOfAyahs":  286
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "آل عمران",
+        "number":  3,
+        "englishNameTranslation":  "Family of Imran",
+        "englishName":  "Ali \u0027Imran",
+        "bengaliName":  "আলে ইমরান",
+        "numberOfAyahs":  200
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "النساء",
+        "number":  4,
+        "englishNameTranslation":  "The Women",
+        "englishName":  "An-Nisa",
+        "bengaliName":  "আন-নিসা",
+        "numberOfAyahs":  176
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "المائدة",
+        "number":  5,
+        "englishNameTranslation":  "The Table Spread",
+        "englishName":  "Al-Ma\u0027idah",
+        "bengaliName":  "আল-মায়িদা",
+        "numberOfAyahs":  120
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الأنعام",
+        "number":  6,
+        "englishNameTranslation":  "The Cattle",
+        "englishName":  "Al-An\u0027am",
+        "bengaliName":  "আল-আনআম",
+        "numberOfAyahs":  165
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الأعراف",
+        "number":  7,
+        "englishNameTranslation":  "The Heights",
+        "englishName":  "Al-A\u0027raf",
+        "bengaliName":  "আল-আরাফ",
+        "numberOfAyahs":  206
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "الأنفال",
+        "number":  8,
+        "englishNameTranslation":  "The Spoils of War",
+        "englishName":  "Al-Anfal",
+        "bengaliName":  "আল-আনফাল",
+        "numberOfAyahs":  75
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "التوبة",
+        "number":  9,
+        "englishNameTranslation":  "The Repentance",
+        "englishName":  "At-Tawbah",
+        "bengaliName":  "আত-তাওবাহ",
+        "numberOfAyahs":  129
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "يونس",
+        "number":  10,
+        "englishNameTranslation":  "Jonah",
+        "englishName":  "Yunus",
+        "bengaliName":  "ইউনুস",
+        "numberOfAyahs":  109
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "هود",
+        "number":  11,
+        "englishNameTranslation":  "Hud",
+        "englishName":  "Hud",
+        "bengaliName":  "হুদ",
+        "numberOfAyahs":  123
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "يوسف",
+        "number":  12,
+        "englishNameTranslation":  "Joseph",
+        "englishName":  "Yusuf",
+        "bengaliName":  "ইউসুফ",
+        "numberOfAyahs":  111
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "الرعد",
+        "number":  13,
+        "englishNameTranslation":  "The Thunder",
+        "englishName":  "Ar-Ra\u0027d",
+        "bengaliName":  "আর-রাদ",
+        "numberOfAyahs":  43
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "إبراهيم",
+        "number":  14,
+        "englishNameTranslation":  "Abraham",
+        "englishName":  "Ibrahim",
+        "bengaliName":  "ইব্রাহিম",
+        "numberOfAyahs":  52
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الحجر",
+        "number":  15,
+        "englishNameTranslation":  "The Rocky Tract",
+        "englishName":  "Al-Hijr",
+        "bengaliName":  "আল-হিজর",
+        "numberOfAyahs":  99
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "النحل",
+        "number":  16,
+        "englishNameTranslation":  "The Bee",
+        "englishName":  "An-Nahl",
+        "bengaliName":  "আন-নাহল",
+        "numberOfAyahs":  128
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الإسراء",
+        "number":  17,
+        "englishNameTranslation":  "The Night Journey",
+        "englishName":  "Al-Isra",
+        "bengaliName":  "আল-ইসরা",
+        "numberOfAyahs":  111
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الكهف",
+        "number":  18,
+        "englishNameTranslation":  "The Cave",
+        "englishName":  "Al-Kahf",
+        "bengaliName":  "আল-কাহফ",
+        "numberOfAyahs":  110
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "مريم",
+        "number":  19,
+        "englishNameTranslation":  "Mary",
+        "englishName":  "Maryam",
+        "bengaliName":  "মারইয়াম",
+        "numberOfAyahs":  98
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "طه",
+        "number":  20,
+        "englishNameTranslation":  "Ta-Ha",
+        "englishName":  "Taha",
+        "bengaliName":  "ত্বা-হা",
+        "numberOfAyahs":  135
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الأنبياء",
+        "number":  21,
+        "englishNameTranslation":  "The Prophets",
+        "englishName":  "Al-Anbiya",
+        "bengaliName":  "আল-আম্বিয়া",
+        "numberOfAyahs":  112
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "الحج",
+        "number":  22,
+        "englishNameTranslation":  "The Pilgrimage",
+        "englishName":  "Al-Hajj",
+        "bengaliName":  "আল-হাজ্জ",
+        "numberOfAyahs":  78
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "المؤمنون",
+        "number":  23,
+        "englishNameTranslation":  "The Believers",
+        "englishName":  "Al-Mu\u0027minun",
+        "bengaliName":  "আল-মুমিনুন",
+        "numberOfAyahs":  118
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "النور",
+        "number":  24,
+        "englishNameTranslation":  "The Light",
+        "englishName":  "An-Nur",
+        "bengaliName":  "আন-নূর",
+        "numberOfAyahs":  64
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الفرقان",
+        "number":  25,
+        "englishNameTranslation":  "The Criterion",
+        "englishName":  "Al-Furqan",
+        "bengaliName":  "আল-ফুরকান",
+        "numberOfAyahs":  77
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الشعراء",
+        "number":  26,
+        "englishNameTranslation":  "The Poets",
+        "englishName":  "Ash-Shu\u0027ara",
+        "bengaliName":  "আশ-শুয়ারা",
+        "numberOfAyahs":  227
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "النمل",
+        "number":  27,
+        "englishNameTranslation":  "The Ant",
+        "englishName":  "An-Naml",
+        "bengaliName":  "আন-নামল",
+        "numberOfAyahs":  93
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "القصص",
+        "number":  28,
+        "englishNameTranslation":  "The Stories",
+        "englishName":  "Al-Qasas",
+        "bengaliName":  "আল-কাসাস",
+        "numberOfAyahs":  88
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "العنكبوت",
+        "number":  29,
+        "englishNameTranslation":  "The Spider",
+        "englishName":  "Al-\u0027Ankabut",
+        "bengaliName":  "আল-আনকাবুত",
+        "numberOfAyahs":  69
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الروم",
+        "number":  30,
+        "englishNameTranslation":  "The Romans",
+        "englishName":  "Ar-Rum",
+        "bengaliName":  "আর-রূম",
+        "numberOfAyahs":  60
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "لقمان",
+        "number":  31,
+        "englishNameTranslation":  "Luqman",
+        "englishName":  "Luqman",
+        "bengaliName":  "লুকমান",
+        "numberOfAyahs":  34
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "السجدة",
+        "number":  32,
+        "englishNameTranslation":  "The Prostration",
+        "englishName":  "As-Sajdah",
+        "bengaliName":  "আস-সাজদাহ",
+        "numberOfAyahs":  30
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "الأحزاب",
+        "number":  33,
+        "englishNameTranslation":  "The Combined Forces",
+        "englishName":  "Al-Ahzab",
+        "bengaliName":  "আল-আহযাব",
+        "numberOfAyahs":  73
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "سبأ",
+        "number":  34,
+        "englishNameTranslation":  "Sheba",
+        "englishName":  "Saba",
+        "bengaliName":  "সাবা",
+        "numberOfAyahs":  54
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "فاطر",
+        "number":  35,
+        "englishNameTranslation":  "Originator",
+        "englishName":  "Fatir",
+        "bengaliName":  "ফাতির",
+        "numberOfAyahs":  45
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "يس",
+        "number":  36,
+        "englishNameTranslation":  "Ya Sin",
+        "englishName":  "Ya-Sin",
+        "bengaliName":  "ইয়া-সিন",
+        "numberOfAyahs":  83
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الصافات",
+        "number":  37,
+        "englishNameTranslation":  "Those who set the Ranks",
+        "englishName":  "As-Saffat",
+        "bengaliName":  "আস-সাফফাত",
+        "numberOfAyahs":  182
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "ص",
+        "number":  38,
+        "englishNameTranslation":  "The Letter \u0027Saad\u0027",
+        "englishName":  "Sad",
+        "bengaliName":  "সোয়াদ",
+        "numberOfAyahs":  88
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الزمر",
+        "number":  39,
+        "englishNameTranslation":  "The Troops",
+        "englishName":  "Az-Zumar",
+        "bengaliName":  "আজ-জুমার",
+        "numberOfAyahs":  75
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "غافر",
+        "number":  40,
+        "englishNameTranslation":  "The Forgiver",
+        "englishName":  "Ghafir",
+        "bengaliName":  "গাফির",
+        "numberOfAyahs":  85
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "فصلت",
+        "number":  41,
+        "englishNameTranslation":  "Explained in Detail",
+        "englishName":  "Fussilat",
+        "bengaliName":  "ফুসসিলাত",
+        "numberOfAyahs":  54
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الشورى",
+        "number":  42,
+        "englishNameTranslation":  "The Consultation",
+        "englishName":  "Ash-Shura",
+        "bengaliName":  "আশ-শুরা",
+        "numberOfAyahs":  53
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الزخرف",
+        "number":  43,
+        "englishNameTranslation":  "The Ornaments of Gold",
+        "englishName":  "Az-Zukhruf",
+        "bengaliName":  "আজ-জুখরুফ",
+        "numberOfAyahs":  89
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الدخان",
+        "number":  44,
+        "englishNameTranslation":  "The Smoke",
+        "englishName":  "Ad-Dukhan",
+        "bengaliName":  "আদ-দুখান",
+        "numberOfAyahs":  59
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الجاثية",
+        "number":  45,
+        "englishNameTranslation":  "The Crouching",
+        "englishName":  "Al-Jathiyah",
+        "bengaliName":  "আল-জাসিয়া",
+        "numberOfAyahs":  37
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الأحقاف",
+        "number":  46,
+        "englishNameTranslation":  "The Wind-Curved Sandhills",
+        "englishName":  "Al-Ahqaf",
+        "bengaliName":  "আল-আহকাফ",
+        "numberOfAyahs":  35
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "محمد",
+        "number":  47,
+        "englishNameTranslation":  "Muhammad",
+        "englishName":  "Muhammad",
+        "bengaliName":  "মুহাম্মাদ",
+        "numberOfAyahs":  38
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "الفتح",
+        "number":  48,
+        "englishNameTranslation":  "The Victory",
+        "englishName":  "Al-Fath",
+        "bengaliName":  "আল-ফাতহ",
+        "numberOfAyahs":  29
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "الحجرات",
+        "number":  49,
+        "englishNameTranslation":  "The Rooms",
+        "englishName":  "Al-Hujurat",
+        "bengaliName":  "আল-হুজুরাত",
+        "numberOfAyahs":  18
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "ق",
+        "number":  50,
+        "englishNameTranslation":  "The Letter \u0027Qaf\u0027",
+        "englishName":  "Qaf",
+        "bengaliName":  "কাফ",
+        "numberOfAyahs":  45
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الذاريات",
+        "number":  51,
+        "englishNameTranslation":  "The Winnowing Winds",
+        "englishName":  "Adh-Dhariyat",
+        "bengaliName":  "আয-যারিয়াত",
+        "numberOfAyahs":  60
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الطور",
+        "number":  52,
+        "englishNameTranslation":  "The Mount",
+        "englishName":  "At-Tur",
+        "bengaliName":  "আত-তূর",
+        "numberOfAyahs":  49
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "النجم",
+        "number":  53,
+        "englishNameTranslation":  "The Star",
+        "englishName":  "An-Najm",
+        "bengaliName":  "আন-নাজম",
+        "numberOfAyahs":  62
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "القمر",
+        "number":  54,
+        "englishNameTranslation":  "The Moon",
+        "englishName":  "Al-Qamar",
+        "bengaliName":  "আল-কামার",
+        "numberOfAyahs":  55
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "الرحمن",
+        "number":  55,
+        "englishNameTranslation":  "The Beneficent",
+        "englishName":  "Ar-Rahman",
+        "bengaliName":  "আর-রহমান",
+        "numberOfAyahs":  78
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الواقعة",
+        "number":  56,
+        "englishNameTranslation":  "The Inevitable",
+        "englishName":  "Al-Waqi\u0027ah",
+        "bengaliName":  "আল-ওয়াকিয়া",
+        "numberOfAyahs":  96
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "الحديد",
+        "number":  57,
+        "englishNameTranslation":  "The Iron",
+        "englishName":  "Al-Hadid",
+        "bengaliName":  "আল-হাদীদ",
+        "numberOfAyahs":  29
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "المجادلة",
+        "number":  58,
+        "englishNameTranslation":  "The Pleading Woman",
+        "englishName":  "Al-Mujadila",
+        "bengaliName":  "আল-মুজাদালাহ",
+        "numberOfAyahs":  22
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "الحشر",
+        "number":  59,
+        "englishNameTranslation":  "The Exile",
+        "englishName":  "Al-Hashr",
+        "bengaliName":  "আল-হাশর",
+        "numberOfAyahs":  24
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "الممتحنة",
+        "number":  60,
+        "englishNameTranslation":  "She that is to be examined",
+        "englishName":  "Al-Mumtahanah",
+        "bengaliName":  "আল-মুমতাহিনা",
+        "numberOfAyahs":  13
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "الصف",
+        "number":  61,
+        "englishNameTranslation":  "The Ranks",
+        "englishName":  "As-Saf",
+        "bengaliName":  "আস-সাফ",
+        "numberOfAyahs":  14
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "الجمعة",
+        "number":  62,
+        "englishNameTranslation":  "The Congregation, Friday",
+        "englishName":  "Al-Jumu\u0027ah",
+        "bengaliName":  "আল-জুমুআহ",
+        "numberOfAyahs":  11
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "المنافقون",
+        "number":  63,
+        "englishNameTranslation":  "The Hypocrites",
+        "englishName":  "Al-Munafiqun",
+        "bengaliName":  "আল-মুনাফিকুন",
+        "numberOfAyahs":  11
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "التغابن",
+        "number":  64,
+        "englishNameTranslation":  "The Mutual Disillusion",
+        "englishName":  "At-Taghabun",
+        "bengaliName":  "আত-তাগাবুন",
+        "numberOfAyahs":  18
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "الطلاق",
+        "number":  65,
+        "englishNameTranslation":  "The Divorce",
+        "englishName":  "At-Talaq",
+        "bengaliName":  "আত-তালাক",
+        "numberOfAyahs":  12
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "التحريم",
+        "number":  66,
+        "englishNameTranslation":  "The Prohibition",
+        "englishName":  "At-Tahrim",
+        "bengaliName":  "আত-তাহরীম",
+        "numberOfAyahs":  12
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الملك",
+        "number":  67,
+        "englishNameTranslation":  "The Sovereignty",
+        "englishName":  "Al-Mulk",
+        "bengaliName":  "আল-মুলক",
+        "numberOfAyahs":  30
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "القلم",
+        "number":  68,
+        "englishNameTranslation":  "The Pen",
+        "englishName":  "Al-Qalam",
+        "bengaliName":  "আল-কলম",
+        "numberOfAyahs":  52
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الحاقة",
+        "number":  69,
+        "englishNameTranslation":  "The Reality",
+        "englishName":  "Al-Haqqah",
+        "bengaliName":  "আল-হাক্কাহ",
+        "numberOfAyahs":  52
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "المعارج",
+        "number":  70,
+        "englishNameTranslation":  "The Ascending Stairways",
+        "englishName":  "Al-Ma\u0027arij",
+        "bengaliName":  "আল-মাআরিজ",
+        "numberOfAyahs":  44
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "نوح",
+        "number":  71,
+        "englishNameTranslation":  "Noah",
+        "englishName":  "Nuh",
+        "bengaliName":  "নূহ",
+        "numberOfAyahs":  28
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الجن",
+        "number":  72,
+        "englishNameTranslation":  "The Jinn",
+        "englishName":  "Al-Jinn",
+        "bengaliName":  "আল-জ্বিন",
+        "numberOfAyahs":  28
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "المزمل",
+        "number":  73,
+        "englishNameTranslation":  "The Enshrouded One",
+        "englishName":  "Al-Muzzammil",
+        "bengaliName":  "আল-মুযযাম্মিল",
+        "numberOfAyahs":  20
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "المدثر",
+        "number":  74,
+        "englishNameTranslation":  "The Cloaked One",
+        "englishName":  "Al-Muddathir",
+        "bengaliName":  "আল-মুদ্দাসসির",
+        "numberOfAyahs":  56
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "القيامة",
+        "number":  75,
+        "englishNameTranslation":  "The Resurrection",
+        "englishName":  "Al-Qiyamah",
+        "bengaliName":  "আল-কিয়ামাহ",
+        "numberOfAyahs":  40
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "الإنسان",
+        "number":  76,
+        "englishNameTranslation":  "The Man",
+        "englishName":  "Al-Insan",
+        "bengaliName":  "আল-ইনসান",
+        "numberOfAyahs":  31
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "المرسلات",
+        "number":  77,
+        "englishNameTranslation":  "The Emissaries",
+        "englishName":  "Al-Mursalat",
+        "bengaliName":  "আল-মুরসালাত",
+        "numberOfAyahs":  50
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "النبأ",
+        "number":  78,
+        "englishNameTranslation":  "The Tidings",
+        "englishName":  "An-Naba",
+        "bengaliName":  "আন-নাবা",
+        "numberOfAyahs":  40
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "النازعات",
+        "number":  79,
+        "englishNameTranslation":  "Those who drag forth",
+        "englishName":  "An-Nazi\u0027at",
+        "bengaliName":  "আন-নাযিআত",
+        "numberOfAyahs":  46
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "عبس",
+        "number":  80,
+        "englishNameTranslation":  "He Frowned",
+        "englishName":  "\u0027Abasa",
+        "bengaliName":  "আবাসা",
+        "numberOfAyahs":  42
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "التكوير",
+        "number":  81,
+        "englishNameTranslation":  "The Overthrowing",
+        "englishName":  "At-Takwir",
+        "bengaliName":  "আত-তাকওয়ীর",
+        "numberOfAyahs":  29
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الانفطار",
+        "number":  82,
+        "englishNameTranslation":  "The Cleaving",
+        "englishName":  "Al-Infitar",
+        "bengaliName":  "আল-ইনফিতার",
+        "numberOfAyahs":  19
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "المطففين",
+        "number":  83,
+        "englishNameTranslation":  "The Defrauding",
+        "englishName":  "Al-Mutaffifin",
+        "bengaliName":  "আল-মুতাফফিফীন",
+        "numberOfAyahs":  36
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الانشقاق",
+        "number":  84,
+        "englishNameTranslation":  "The Splitting Open",
+        "englishName":  "Al-Inshiqaq",
+        "bengaliName":  "আল-ইনশিকাক",
+        "numberOfAyahs":  25
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "البروج",
+        "number":  85,
+        "englishNameTranslation":  "The Mansions of the Stars",
+        "englishName":  "Al-Buruj",
+        "bengaliName":  "আল-বুরূজ",
+        "numberOfAyahs":  22
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الطارق",
+        "number":  86,
+        "englishNameTranslation":  "The Morning Star",
+        "englishName":  "At-Tariq",
+        "bengaliName":  "আত-তারিক",
+        "numberOfAyahs":  17
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الأعلى",
+        "number":  87,
+        "englishNameTranslation":  "The Most High",
+        "englishName":  "Al-A\u0027la",
+        "bengaliName":  "আল-আলা",
+        "numberOfAyahs":  19
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الغاشية",
+        "number":  88,
+        "englishNameTranslation":  "The Overwhelming",
+        "englishName":  "Al-Ghashiyah",
+        "bengaliName":  "আল-গাশিয়াহ",
+        "numberOfAyahs":  26
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الفجر",
+        "number":  89,
+        "englishNameTranslation":  "The Dawn",
+        "englishName":  "Al-Fajr",
+        "bengaliName":  "আল-ফজর",
+        "numberOfAyahs":  30
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "البلد",
+        "number":  90,
+        "englishNameTranslation":  "The City",
+        "englishName":  "Al-Balad",
+        "bengaliName":  "আল-বালাদ",
+        "numberOfAyahs":  20
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الشمس",
+        "number":  91,
+        "englishNameTranslation":  "The Sun",
+        "englishName":  "Ash-Shams",
+        "bengaliName":  "আশ-শামস",
+        "numberOfAyahs":  15
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الليل",
+        "number":  92,
+        "englishNameTranslation":  "The Night",
+        "englishName":  "Al-Layl",
+        "bengaliName":  "আল-লাইল",
+        "numberOfAyahs":  21
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الضحى",
+        "number":  93,
+        "englishNameTranslation":  "The Morning Hours",
+        "englishName":  "Ad-Duhaa",
+        "bengaliName":  "আদ-দুহা",
+        "numberOfAyahs":  11
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الشرح",
+        "number":  94,
+        "englishNameTranslation":  "The Relief",
+        "englishName":  "Ash-Sharh",
+        "bengaliName":  "আল-ইনশিরাহ",
+        "numberOfAyahs":  8
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "التين",
+        "number":  95,
+        "englishNameTranslation":  "The Fig",
+        "englishName":  "At-Tin",
+        "bengaliName":  "আত-তীন",
+        "numberOfAyahs":  8
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "العلق",
+        "number":  96,
+        "englishNameTranslation":  "The Clot",
+        "englishName":  "Al-\u0027Alaq",
+        "bengaliName":  "আল-আলাক",
+        "numberOfAyahs":  19
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "القدر",
+        "number":  97,
+        "englishNameTranslation":  "The Power",
+        "englishName":  "Al-Qadr",
+        "bengaliName":  "আল-ক্বদর",
+        "numberOfAyahs":  5
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "البينة",
+        "number":  98,
+        "englishNameTranslation":  "The Clear Proof",
+        "englishName":  "Al-Bayyinah",
+        "bengaliName":  "আল-বাইয়্যিনাহ",
+        "numberOfAyahs":  8
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "الزلزلة",
+        "number":  99,
+        "englishNameTranslation":  "The Earthquake",
+        "englishName":  "Az-Zalzalah",
+        "bengaliName":  "আল-যিলযাল",
+        "numberOfAyahs":  8
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "العاديات",
+        "number":  100,
+        "englishNameTranslation":  "The Courser",
+        "englishName":  "Al-\u0027Adiyat",
+        "bengaliName":  "আল-আদিয়াত",
+        "numberOfAyahs":  11
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "القارعة",
+        "number":  101,
+        "englishNameTranslation":  "The Calamity",
+        "englishName":  "Al-Qari\u0027ah",
+        "bengaliName":  "আল-কারিয়াহ",
+        "numberOfAyahs":  11
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "التكاثر",
+        "number":  102,
+        "englishNameTranslation":  "The Rivalry in world increase",
+        "englishName":  "At-Takathur",
+        "bengaliName":  "আত-তাকাসুর",
+        "numberOfAyahs":  8
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "العصر",
+        "number":  103,
+        "englishNameTranslation":  "The Declining Day",
+        "englishName":  "Al-\u0027Asr",
+        "bengaliName":  "আল-আসর",
+        "numberOfAyahs":  3
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الهمزة",
+        "number":  104,
+        "englishNameTranslation":  "The Traducer",
+        "englishName":  "Al-Humazah",
+        "bengaliName":  "আল-হুমাযাহ",
+        "numberOfAyahs":  9
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الفيل",
+        "number":  105,
+        "englishNameTranslation":  "The Elephant",
+        "englishName":  "Al-Fil",
+        "bengaliName":  "আল-ফিল",
+        "numberOfAyahs":  5
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "قريش",
+        "number":  106,
+        "englishNameTranslation":  "Quraysh",
+        "englishName":  "Quraysh",
+        "bengaliName":  "কুরাইশ",
+        "numberOfAyahs":  4
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الماعون",
+        "number":  107,
+        "englishNameTranslation":  "The Small Kindnesses",
+        "englishName":  "Al-Ma\u0027un",
+        "bengaliName":  "আল-মাউন",
+        "numberOfAyahs":  7
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الكوثر",
+        "number":  108,
+        "englishNameTranslation":  "The Abundance",
+        "englishName":  "Al-Kawthar",
+        "bengaliName":  "আল-কাউসার",
+        "numberOfAyahs":  3
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الكافرون",
+        "number":  109,
+        "englishNameTranslation":  "The Disbelievers",
+        "englishName":  "Al-Kafirun",
+        "bengaliName":  "আল-কাফিরুন",
+        "numberOfAyahs":  6
+    },
+    {
+        "revelationType":  "Medinan",
+        "name":  "النصر",
+        "number":  110,
+        "englishNameTranslation":  "The Divine Support",
+        "englishName":  "An-Nasr",
+        "bengaliName":  "আন-নাসর",
+        "numberOfAyahs":  3
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "المسد",
+        "number":  111,
+        "englishNameTranslation":  "The Palm Fiber",
+        "englishName":  "Al-Masad",
+        "bengaliName":  "আল-লাহাব",
+        "numberOfAyahs":  5
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الإخلاص",
+        "number":  112,
+        "englishNameTranslation":  "The Sincerity",
+        "englishName":  "Al-Ikhlas",
+        "bengaliName":  "আল-ইখলাস",
+        "numberOfAyahs":  4
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الفلق",
+        "number":  113,
+        "englishNameTranslation":  "The Daybreak",
+        "englishName":  "Al-Falaq",
+        "bengaliName":  "আল-ফালাক",
+        "numberOfAyahs":  5
+    },
+    {
+        "revelationType":  "Meccan",
+        "name":  "الناس",
+        "number":  114,
+        "englishNameTranslation":  "Mankind",
+        "englishName":  "An-Nas",
+        "bengaliName":  "আন-নাস",
+        "numberOfAyahs":  6
+    }
+]
